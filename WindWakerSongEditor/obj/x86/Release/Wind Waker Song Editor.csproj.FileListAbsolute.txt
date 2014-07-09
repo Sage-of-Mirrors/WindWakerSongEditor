@@ -1,0 +1,12 @@
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\bin\Release\Wind Waker Song Editor.exe.manifest
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\bin\Release\Wind Waker Song Editor.application
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\bin\Release\Wind Waker Song Editor.exe
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\bin\Release\Wind Waker Song Editor.pdb
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\WindowsFormsApplication1.Resource1.resources
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\Wind Waker Song Editor.csproj.GenerateResource.Cache
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\Wind Waker Song Editor.exe.manifest
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\Wind Waker Song Editor.application
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\Wind Waker Song Editor.exe
+C:\Users\Dylan\documents\visual studio 2010\Projects\Wind Waker Song Editor\Wind Waker Song Editor\obj\x86\Release\Wind Waker Song Editor.pdb
